@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @biman17
+- 👋 Hi, I’m Biman Biswas
 - 👀 I’m interested in Deep Learning for Remote Sensing image analysis
 - 🌱 I’m currently learning more about advanced method in the field of remote sensing image analysis
 - 📫 Reach me out on my <a href="https://www.linkedin.com/in/biman17/">Linkedin</a>
